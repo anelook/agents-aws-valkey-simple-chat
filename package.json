@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-bedrock": "^3.624.0",
     "@aws-sdk/client-bedrock-runtime": "^3.624.0",
     "dotenv": "^16.4.5",
     "iovalkey": "^0.1.0"
